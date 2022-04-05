@@ -5,7 +5,7 @@
  * Monday Wednesday (10:30 am - 1:30 pm)
  * @version "17.0.2" 2022-01-18
  */
-package Graded_Activity_8;
+package Graded_Activity_7;
 import java.util.*;   
 import java.lang.Math;
 public class Kimmakim_Dim2 {
